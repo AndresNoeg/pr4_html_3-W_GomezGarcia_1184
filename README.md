@@ -145,5 +145,123 @@ comprar refrescos</strong>
 ![image](https://github.com/user-attachments/assets/66f84385-a0d4-44f7-814b-4d8c8de634c1)
 
 
+<!DOCTYPE html>
+<html>
+<body>
+    
+<p>Aqui hay una cita de muyinteresante:</p>
+
+<!--Muestra un mensaje de una pagina adjunta-->
+<blockquote cite="https://www.muyinteresante.com/ciencia/63073.html#google_vignette">
+“Lo importante es no dejar de cuestionar. La curiosidad tiene su propia razón de existir”
+</blockquote>
+
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/293ed44d-fb6e-4888-b23b-ddc41a11c469)
+
+![image](https://github.com/user-attachments/assets/ba377f01-dbd0-47e5-b0db-f503ac0695ee)
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Elemento q es usado en navegadores</p>
+<!--Muestra un mensaje la parte encerrada con el elemento q esta entrecomillado-->
+<p>Mi meta en la vida es<q> es ser musico cantante y compositor </q></p>
+
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/a354ba21-325e-4140-94d9-2a05d9891e5b)
+
+![image](https://github.com/user-attachments/assets/0621229c-abde-4cc0-ad2f-7701c448bd93)
+
+<!DOCTYPE html>
+<html>
+<body>
+<!--Al pasar el mouse por arriba el texto entrecomillado aparece-->
+<p>El <abbr title="Federal Bureau of Investigation">FBI</abbr> fue fundado en 1908</p>
+<!--Muestra un mensaje-->
+<p>Es el servicio de seguridad y de inteligencia nacional de Estados Unidos, 
+así como su principal agencia federal de policía.</p>
+
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/0149af13-bcee-4727-9448-a2e02715b737)
+
+![image](https://github.com/user-attachments/assets/a09e3152-aa03-4b81-be3c-123e96ad73a1)
+
+<!DOCTYPE html>
+<html>
+<body>
+<!--Muestra un mensaje-->
+<p>El elemento HTML <code>address</code> define la información de contacto (autor/propietario) de un documento o artículo.</p>
+
+<!--En una letra distinta genera la informacion del propietario-->
+<address>
+Escrito por Noe Gomez.<br>
+Visitanos en:<br>
+Ficticia.com<br>
+Calle de la Imaginacion 123<br>
+Ciudad Fantástica, Pais Inventado
+</address>
+
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/2478bcdf-52ea-4968-a28d-026f59c2ce3d)
+
+![image](https://github.com/user-attachments/assets/a886a7fe-9fe0-4fda-9c2f-316b3d6d3b69)
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>El elemento HTML <code>cite</code> define el título de una obra.</p>
+<p>Los navegadores suelen mostrar los elementos <code>cite</code> en cursiva.</p>
+    
+<!--Muestra el titulo de la pintura en italic-->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Leonardo_da_Vinci_-_Mona_Lisa_%28Louvre%2C_Paris%29.jpg/1200px-Leonardo_da_Vinci_-_Mona_Lisa_%28Louvre%2C_Paris%29.jpg" width="220" height="277" alt="La Gioconda">
+<p><cite>La Gioconda</cite> por Leonardo Davinci.</p>
+
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/73a59940-b244-400f-9df8-349efbf5ebdd)
+
+![image](https://github.com/user-attachments/assets/db7a23d2-d1a1-44a0-ab85-b2ac54ed0e72)
+
+<!DOCTYPE html>
+<html>
+<body>
+<!--Muestra un mensaje-->
+<p>Aqui va un palindromo:</p>
+<!--Escribe de derecha a izquierda-->
+<bdo dir="rtl">Etna da luz azul a Dante</bdo>
+
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/8b4e6b2c-782b-4b77-9da3-197183ea3bee)
+
+![image](https://github.com/user-attachments/assets/cc81a55c-2848-4f46-a47f-cefae4e6d665)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
